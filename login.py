@@ -26,5 +26,3 @@ def login7():
     pass
 def login8():
     pass
-def login8():
-    pass
